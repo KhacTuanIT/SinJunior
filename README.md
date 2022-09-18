@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SinJunior
-- 👀 I’m interested in .NET and Blockchain
-- 🌱 I’m currently learning at Vietnam - Korea University of Information and Communication Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in .NET/JS(fullstack) and Blockchain
+- 🌱 I’m currently graduated at Vietnam - Korea University of Information and Communication Technology
 
 <!---
 SinJunior/SinJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
